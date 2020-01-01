@@ -1,0 +1,23 @@
+2x   470uF ELKO -->Reichelt FM-A 470U 25A
+10x  4u7 ELKO -->Reichelt KS-A 4,7U 25
+3x   15nF Folienkondensator -->Reichelt MKS2-63 15N
+1x   4n7 Folienkondensator -->Reichelt MKS02-250 4,7N
+1x   1uF Folienkondensator --> Reichelt MKS-02 1,0µ
+2x   47uF ELKO -->REichelt FM-A 47U 25
+1x   22pF Keramik -->Reichelt KERKO 22P
+3x   470pF -->Reichelt FKP02-100 470P
+1x   220pF --> Reichelt FKP02-100 220P
+1x   100nF Folienkondensator -->Reichelt  MKS2-100 100N
+1x   3n3 Folienkondensator --> Reichelt MKS02-250 3,3N
+1x   150nF Folienkondensator --> Reichelt MKS2-63 150N
+2x   22nF Folienkondensator -->Reichelt MKS2-63 22N
+1x   47nF Folienkondensator --> Reichelt MKS2-63 47N
+1x   82pF Keramik --> Reichelt KERKO 82P
+2x   220nF Folienkondensator --> Reichelt MKS2-63 220N
+1x   10uF ELKO --> Reichelt KS-A 10U 50
+4x   OPA2134 DIP8 -->REichelt OPA 2134 PA
+4x   IC SOCKEL DIP8 --> Reihcelt MPE 001-1-008-3
+1x   TDA7266 --->Reichelt TDA 7266
+2x Zener 3V9 --->Reichelt RND 1N748A
+
+
